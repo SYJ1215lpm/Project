@@ -12,5 +12,7 @@ public class SpringbootDemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringbootDemoApplication.class, args);
+        System.out.println("1245");
     }
+
 }
