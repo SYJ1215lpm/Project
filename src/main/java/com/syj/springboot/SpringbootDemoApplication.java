@@ -13,7 +13,7 @@ public class SpringbootDemoApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringbootDemoApplication.class, args);
         System.out.println("git test");
-        System.out.println("1245");
+        System.out.println("124356");
     }
 
 }
