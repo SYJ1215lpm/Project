@@ -14,6 +14,7 @@ public class SpringbootDemoApplication {
         SpringApplication.run(SpringbootDemoApplication.class, args);
         System.out.println("git test");
         System.out.println("124356");
+        System.out.println("124356789");
     }
 
 }
